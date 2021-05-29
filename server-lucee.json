@@ -1,0 +1,9 @@
+{
+    "name":"password4j-lucee",
+    "app":{
+        "cfengine":"lucee"
+    },
+    "jvm":{
+        "args":"-Dlucee.preserve.case=true"
+    }
+}
